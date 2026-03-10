@@ -1,16 +1,102 @@
-# React + Vite
+# 🌍 GoTravel
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+GoTravel is a simple travel-themed website built using **React, Vite, and Tailwind CSS**.
+This project was created to practice React component structure, responsive layouts, and modern frontend development.
 
-Currently, two official plugins are available:
+The website mainly showcases travel destinations with beautiful images and a clean UI.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+🚀 **Live Demo :** [GoTravel Website](https://go-travel-01.vercel.app/)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📸 Preview
+![GoTravel Preview](./public/thumbnail.png)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Features
+
+* Responsive navigation bar
+* Mobile menu toggle
+* Destination showcase
+* Image gallery section
+* Testimonials section
+* Smooth UI with Tailwind CSS
+* Fully responsive design
+
+---
+
+## 🛠️ Tech Stack
+
+* **React**
+* **Vite**
+* **Tailwind CSS**
+* **JavaScript (ES6+)**
+* **Remix Icons**
+
+---
+
+## 📂 Project Structure
+
+```
+goTravel
+│
+├── public
+│
+├── src
+│   ├── assets
+│   │   └── images
+│   │
+│   ├── components
+│   │   └── Contact.jsx
+│   │   └── Destination.jsx
+│   │   └── Footer.jsx
+│   │   └── Gallery.jsx
+│   │   └── Home.jsx
+│   │   └── NavBar.jsx
+│   │   └── Testimonial.jsx
+│   │
+│   ├── main.jsx
+│   ├── App.jsx
+│   ├── App.css
+│   └── index.css
+│
+├── index.html
+├── package.json
+└── README.md
+```
+
+---
+
+## 🎯 Purpose of this Project
+
+This project was built to practice:
+
+* React component-based architecture
+* State management with `useState`
+* Responsive design using Tailwind CSS
+* Mobile navigation menu
+* Basic frontend project structure
+
+---
+
+## 📌 Future Improvements
+
+* Add animations
+* Add routing with React Router
+* Add backend for dynamic content
+* Add booking functionality
+
+---
+
+## 👨‍💻 Author
+
+**Ragunath S**
+
+GitHub: https://github.com/Ragunath-1014
+
+---
+
+⭐ If you like this project, consider giving it a **star** on GitHub!
