@@ -22,7 +22,7 @@ function NavBar() {
   };
 
   return (
-    <section className="relative bg-white text-black h-[70px] flex justify-between items-center px-5 shadow-md sticky top-0 z-50 transition-all duration-500">
+    <section className="bg-white text-black h-[70px] flex justify-between items-center px-5 shadow-md sticky top-0 z-50 transition-all duration-500">
       
       {/* Logo */}
       <div className="font-bold flex items-center gap-1">
@@ -75,7 +75,7 @@ function NavBar() {
             <li key={link.href} className="relative">
               <a
                 href={link.href}
-                className="after:block after:absolute after:bottom-0 after:left-0 after:w-0 after:h-[1px] after:bg-black after:transition-all after:duration-500 hover:after:w-[70%]"
+                className="after:block after:absolute after:bottom-0 after:left-0 after:w-0 after:h-[2px] after:bg-black after:transition-all after:duration-500 hover:after:w-[70%]"
               >
                 {link.name}
               </a>

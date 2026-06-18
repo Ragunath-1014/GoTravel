@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # 🌍 GoTravel
+=======
+# GoTravel
+>>>>>>> bde4be4 (Modified src/components/Contact.jsx, Destination.jsx, Gallery.jsx, NavBar.jsx and README.md)
 
 GoTravel is a simple travel-themed website built using **React, Vite, and Tailwind CSS**.
 This project was created to practice React component structure, responsive layouts, and modern frontend development.
@@ -7,6 +11,7 @@ The website mainly showcases travel destinations with beautiful images and a cle
 
 ---
 
+<<<<<<< HEAD
 🚀 **Live Demo :** [GoTravel Website](https://go-travel-01.vercel.app/)
 
 ---
@@ -17,6 +22,19 @@ The website mainly showcases travel destinations with beautiful images and a cle
 ---
 
 ## 🚀 Features
+=======
+## Live Demo 
+https://gotravel-online.vercel.app
+
+---
+
+## Preview
+<img src="/public/thumbnail.png" alt="GoTravel Thumbnail" width="600">
+
+---
+
+## Features
+>>>>>>> bde4be4 (Modified src/components/Contact.jsx, Destination.jsx, Gallery.jsx, NavBar.jsx and README.md)
 
 * Responsive navigation bar
 * Mobile menu toggle
@@ -28,7 +46,11 @@ The website mainly showcases travel destinations with beautiful images and a cle
 
 ---
 
+<<<<<<< HEAD
 ## 🛠️ Tech Stack
+=======
+## Tech Stack
+>>>>>>> bde4be4 (Modified src/components/Contact.jsx, Destination.jsx, Gallery.jsx, NavBar.jsx and README.md)
 
 * **React**
 * **Vite**
@@ -38,6 +60,7 @@ The website mainly showcases travel destinations with beautiful images and a cle
 
 ---
 
+<<<<<<< HEAD
 ## 📂 Project Structure
 
 ```
@@ -71,6 +94,9 @@ goTravel
 ---
 
 ## 🎯 Purpose of this Project
+=======
+## Purpose of this Project
+>>>>>>> bde4be4 (Modified src/components/Contact.jsx, Destination.jsx, Gallery.jsx, NavBar.jsx and README.md)
 
 This project was built to practice:
 
@@ -82,7 +108,11 @@ This project was built to practice:
 
 ---
 
+<<<<<<< HEAD
 ## 📌 Future Improvements
+=======
+## Future Improvements
+>>>>>>> bde4be4 (Modified src/components/Contact.jsx, Destination.jsx, Gallery.jsx, NavBar.jsx and README.md)
 
 * Add animations
 * Add routing with React Router
@@ -91,7 +121,11 @@ This project was built to practice:
 
 ---
 
+<<<<<<< HEAD
 ## 👨‍💻 Author
+=======
+## Author
+>>>>>>> bde4be4 (Modified src/components/Contact.jsx, Destination.jsx, Gallery.jsx, NavBar.jsx and README.md)
 
 **Ragunath S**
 
@@ -99,4 +133,8 @@ GitHub: https://github.com/Ragunath-1014
 
 ---
 
+<<<<<<< HEAD
 ⭐ If you like this project, consider giving it a **star** on GitHub!
+=======
+⭐ If you like this project, consider giving it a **star** on GitHub!
+>>>>>>> bde4be4 (Modified src/components/Contact.jsx, Destination.jsx, Gallery.jsx, NavBar.jsx and README.md)

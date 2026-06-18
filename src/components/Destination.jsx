@@ -22,9 +22,9 @@ function Destinantion() {
         {/* Destination data */}
         <div className='grid grid-cols-1 place-items-center gap-5 mx-5 lg:grid-cols-3 lg:place-items-center'>
           {
-            destinations.map(function (data) {
+            destinations.map(function (data, index) {
               return (
-                <div className='relative rounded-2xl overflow-hidden'>
+                <div className='relative rounded-2xl overflow-hidden' key={index}>
                   <img src={data.destination} alt={data.title} className='max-w-80 transition-all duration-500 cursor-pointer hover:scale-110' />
 
                   <div className='absolute px-5 left-0 bottom-0 bg backdrop-blur-md py-4 w-80 text-white text-xl'>

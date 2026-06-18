@@ -25,7 +25,7 @@ function Gallery() {
           {
             gallery.map(function (gallery, index) {
               return (
-                <article className='relative text-white overflow-hidden rounded-3xl'>
+                <article className='relative text-white overflow-hidden rounded-3xl' key={index}>
                   <img src={gallery.gallery_img} alt={gallery.title} className='rounded-3xl max-w-sm transition-all duration-500 cursor-pointer hover:scale-110 sm:max-w-md' />
 
                   <div className='absolute z-10 bottom-0 text-3xl p-6'>
